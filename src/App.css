@@ -1,0 +1,19 @@
+#title {
+  color: orange;
+  font-size: 2rem;
+
+}
+
+.subTitle {
+  color: #f298f2;
+  font-size: 1rem;
+  border: 2px solid #f298f2;
+  padding: 10px;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 20px;
+  padding: 40px 80px;
+}
